@@ -1,2 +1,2 @@
 # CitySKY
- A basic weather app
+ My very first repository 🥳 A simple weather app coded with Express.js 
